@@ -15,4 +15,4 @@
 ## Future work
 - Improve PDF's layout.
 - Apply multiprocessing to PDF making
-- Giving weights(number of link hits) to graph edges and using djikstra's algorithm to sort the pages.
+- Giving weights(number of link hits) to graph edges and using djikstra's algorithm to sort the pages.	
